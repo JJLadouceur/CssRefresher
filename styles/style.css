@@ -74,6 +74,16 @@ body{
     height:500px;
     background-color: blueviolet;
     float:left;
+    padding:0px;
+}
+#content{
+    padding:0px;
+    margin:0px;
+    width:90%;
+    margin-left: 15px;
+}
+#content h1,p,img{
+    margin:5px;
 }
 #sidebar{
     width:30%;
