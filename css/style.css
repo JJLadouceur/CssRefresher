@@ -69,6 +69,11 @@ body{
     color:black;
     border-radius: 10px;
 }
+#nav .active{
+    background-color: white;
+    color:black;
+    border-radius: 10px;
+}
 #article{
     width:70%;
     height:500px;
@@ -125,4 +130,7 @@ body{
 .icon{
     width:50px;
     padding-left:5px;
+}
+.dog{
+    width:500px;
 }
