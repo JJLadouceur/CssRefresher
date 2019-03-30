@@ -134,3 +134,18 @@ body{
 .dog{
     width:100%;
 }
+input, textarea{
+    color:blue;
+    font-size:15px;
+    border-radius: 10px;
+    border-style: none;
+}
+input[type=radio]{
+    width:20px;
+}
+input[type=submit]{
+    background-color: lightsalmon;
+    border-radius: 25px;
+    border-style: none;
+    color: royalblue;
+}
